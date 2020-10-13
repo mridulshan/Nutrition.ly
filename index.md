@@ -1,10 +1,10 @@
-                      #Nutrition.ly
+                                         #Nutrition.ly
 
 This site is not just a site but it is solely made to help you in every thing related to fitness. Right 
 now it is under process we would appreciate your support.
 Thank you
 
-### Why this?
+##   # Why this?
 
 As you know there are a lot of apps videos and trainers out there. You dont have to watch all that just 
 to be fit we did it for you. You dont have to pay us anything in the beginning we provide you with certified 
