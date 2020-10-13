@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+##~Nutrition.ly~
 
-You can use the [editor on GitHub](https://github.com/mridulshan/coursera-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site is not just a site but it is solely made to help you in every thing related to fitness. Right 
+now it is under process we would appreciate your support.
+Thank you
 
 ### Markdown
 
