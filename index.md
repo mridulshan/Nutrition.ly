@@ -1,22 +1,23 @@
-##~Nutrition.ly~
+##Nutrition.ly
 
 This site is not just a site but it is solely made to help you in every thing related to fitness. Right 
 now it is under process we would appreciate your support.
 Thank you
 
-### Markdown
+### Why this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As you know there are a lot of apps videos and trainers out there. You dont have to watch all that just 
+to be fit we did it for you. You dont have to pay us anything in the beginning we provide you with certified 
+info and interaction is fun also 
 
 ```markdown
-Syntax highlighted code block
+What we provide:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# Exercises for your own customizes course
+## Calories counter with micros as per individual needs
+### Thats not it! We provide you with all the knowlege you need int the form of slides 
+- We will ask you your goals 
+- This is all you could ever wish for
 
 1. Numbered
 2. List
