@@ -1,4 +1,4 @@
-                                         **#Nutrition.ly**
+                                         #Nutrition.ly
 
 This site is not just a site but it is solely made to help you in every thing related to fitness. Right 
 now it is under process we would appreciate your support.
@@ -11,7 +11,9 @@ to be fit we did it for you. You dont have to pay us anything in the beginning w
 info and interaction is fun also 
 
 
-What we provide:
+
+
+*What we provide:*
 
 1. Exercises for your own customizes course
 2. Calories counter with micros as per individual needs
@@ -19,13 +21,10 @@ What we provide:
 - We will ask you your goals 
 - This is all you could ever wish for
 
-1. Numbered
-2. List
-
 
 
 [Visit us on instagram](https://www.instagram.com/be_fit_buddy/)  
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.in%2FSix-Pack-28-Days-Workout%2Fdp%2FB083WQNQS7&psig=AOvVaw09UlLkWwQU06XtVc9cgk44&ust=1602673662825000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOD4lOW2sewCFQAAAAAdAAAAABAK)
+![Image](https://images-eu.ssl-images-amazon.com/images/I/81DQ3BJpAuL.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
