@@ -10,7 +10,7 @@ As you know there are a lot of apps videos and trainers out there. You dont have
 to be fit we did it for you. You dont have to pay us anything in the beginning we provide you with certified 
 info and interaction is fun also 
 
-```markdown
+
 What we provide:
 
 # Exercises for your own customizes course
